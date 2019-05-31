@@ -1,6 +1,6 @@
 # Control ESP8266 over Facebook chatbot
 ## Overview
-This is a project  made to control ESP8266 by message on Messsenger. You can develop it to control home lights...  
+This project  made to control ESP8266 by message on Messsenger. You can develop it to control home lights...  
 **Sample:**  
 ![Sample](images/sample.png)
 ## Folder structure
